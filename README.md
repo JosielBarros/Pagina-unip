@@ -1,2 +1,2 @@
 # Pagina-unip
-Projeto da página principal do site da Unip ead. Usando html, css e javascript. Projeto de iniciativa própria.
+Este projeto é uma cópia da página principal do site da Unip ead. Foi usado html, css e javascript. Projeto de iniciativa própria.
